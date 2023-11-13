@@ -1,0 +1,36 @@
+<!Ductype html>
+<html>
+
+    <head>
+        
+
+        <title> Welcome to PHP world </title>
+
+    </head>
+
+    <body>
+    <center>
+        
+        <h1>
+
+             
+            <?php echo "First PHP Project ^^ "; ?>
+
+        </h1>
+        
+    
+        <img src="https://almahost.co.uk/wp-content/uploads/2018/12/php.png" alt="php" width="500" height="250" />;
+        
+        <p>
+
+            <?php echo "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials.<br> You use a combination of science, art, and craft to determine what to do with them.<br>
+             Most good programmers do programming not because they expect to get paid or get adulation by the public,<br>
+              but because it is fun to program.<br>
+               Make it work, make it right, make it fast. <br> to all devs <3 ";?>
+
+        </p>
+        
+        
+    </body>
+
+</html>
